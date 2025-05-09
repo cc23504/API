@@ -1,0 +1,10 @@
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\bin\Debug\WinFormGetAPI.exe.config
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\bin\Debug\WinFormGetAPI.exe
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\bin\Debug\WinFormGetAPI.pdb
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.csproj.AssemblyReference.cache
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.FormGetAPI.resources
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.Properties.Resources.resources
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.csproj.GenerateResource.cache
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.csproj.CoreCompileInputs.cache
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.exe
+C:\Users\u23504\Downloads\WinFormGetAPI\WinFormGetAPI\obj\Debug\WinFormGetAPI.pdb
