@@ -1,0 +1,7 @@
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.csproj.AssemblyReference.cache
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.AssemblyInfoInputs.cache
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.AssemblyInfo.cs
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.csproj.CoreCompileInputs.cache
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kyous\OneDrive\Documentos\Ana Paulqa\Ana Paula\GIT CLONES\ControleDespesas\ControleDespesas\obj\Debug\net8.0\ControleDespesas.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MinAPI_23504/1.0.0": {
+        "runtime": {
+          "MinAPI_23504.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinAPI_23504/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
