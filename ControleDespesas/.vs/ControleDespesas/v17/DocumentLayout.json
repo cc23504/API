@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\",
+  "WorkspaceRootPath": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlerAPI_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\controlerapi_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|solutionrelative:controlerapi_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Despesas_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\controlerapi_23504\\controlerapi_23504.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|solutionrelative:controlerapi_23504\\controlerapi_23504.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlerAPI_23504\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\controlerapi_23504\\controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|solutionrelative:controlerapi_23504\\controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlerAPI_23504\\ControlerAPI_23504.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\controlerapi_23504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|solutionrelative:controlerapi_23504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\Controllers\\DespesaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlerAPI_23504\\Controllers\\DespesaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\controlerapi_23504\\controlerapi_23504.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A58FBC83-6431-4C13-B9BF-0FC6EDA7717C}|ControlerAPI_23504\\ControlerAPI_23504.csproj|solutionrelative:controlerapi_23504\\controlerapi_23504.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlerAPI_23504\\ControlerAPI_23504.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\despesas_23504\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|solutionrelative:despesas_23504\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Despesas_23504\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06815A6-347D-4C85-BCED-B36B5DCD89FE}|MinAPI_23504\\MinAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\minapi_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D06815A6-347D-4C85-BCED-B36B5DCD89FE}|MinAPI_23504\\MinAPI_23504.csproj|solutionrelative:minapi_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\MinAPI_23504\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MinAPI_23504\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06815A6-347D-4C85-BCED-B36B5DCD89FE}|MinAPI_23504\\MinAPI_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\minapi_23504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06815A6-347D-4C85-BCED-B36B5DCD89FE}|MinAPI_23504\\MinAPI_23504.csproj|solutionrelative:minapi_23504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Despesas_23504\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\despesas_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|solutionrelative:despesas_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Models\\Despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Despesas_23504\\Models\\Despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\despesas_23504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|solutionrelative:despesas_23504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\MinAPI_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MinAPI_23504\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|z:\\ds25\\andreia\\api\\api\\controledespesas\\despesas_23504\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F06387-2F12-4C11-A585-C4E260B5DD3D}|Despesas_23504\\Despesas_23504.csproj|solutionrelative:despesas_23504\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\appsettings.json",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\appsettings.json",
               "RelativeDocumentMoniker": "ControlerAPI_23504\\appsettings.json",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\appsettings.json",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\appsettings.json",
               "RelativeToolTip": "ControlerAPI_23504\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -71,133 +71,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ControlerAPI_23504.http",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.http",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.http",
               "RelativeDocumentMoniker": "ControlerAPI_23504\\ControlerAPI_23504.http",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.http",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.http",
               "RelativeToolTip": "ControlerAPI_23504\\ControlerAPI_23504.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-01T21:22:22.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DespesaController.cs",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\Controllers\\DespesaController.cs",
-              "RelativeDocumentMoniker": "ControlerAPI_23504\\Controllers\\DespesaController.cs",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\Controllers\\DespesaController.cs",
-              "RelativeToolTip": "ControlerAPI_23504\\Controllers\\DespesaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:21:18.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T21:22:22.58Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DespesaController.cs",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\Controllers\\DespesaController.cs",
+              "RelativeDocumentMoniker": "ControlerAPI_23504\\Controllers\\DespesaController.cs",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\Controllers\\DespesaController.cs",
+              "RelativeToolTip": "ControlerAPI_23504\\Controllers\\DespesaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:21:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\Program.cs",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\Program.cs",
               "RelativeDocumentMoniker": "ControlerAPI_23504\\Program.cs",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\Program.cs",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\Program.cs",
               "RelativeToolTip": "ControlerAPI_23504\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:21:03.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T21:21:03.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlerAPI_23504.csproj",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.csproj",
+              "RelativeDocumentMoniker": "ControlerAPI_23504\\ControlerAPI_23504.csproj",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.csproj",
+              "RelativeToolTip": "ControlerAPI_23504\\ControlerAPI_23504.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T21:21:00.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ControlerAPI_23504.csproj",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.csproj",
-              "RelativeDocumentMoniker": "ControlerAPI_23504\\ControlerAPI_23504.csproj",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\ControlerAPI_23504\\ControlerAPI_23504.csproj",
-              "RelativeToolTip": "ControlerAPI_23504\\ControlerAPI_23504.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-01T21:21:00.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Despesa.cs",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Models\\Despesa.cs",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\Models\\Despesa.cs",
               "RelativeDocumentMoniker": "Despesas_23504\\Models\\Despesa.cs",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Models\\Despesa.cs",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\Models\\Despesa.cs",
               "RelativeToolTip": "Despesas_23504\\Models\\Despesa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:00:44.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T21:00:44.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\MinAPI_23504\\appsettings.json",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\MinAPI_23504\\appsettings.json",
               "RelativeDocumentMoniker": "MinAPI_23504\\appsettings.json",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\MinAPI_23504\\appsettings.json",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\MinAPI_23504\\appsettings.json",
               "RelativeToolTip": "MinAPI_23504\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-01T20:41:16.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T20:41:16.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\MinAPI_23504\\Program.cs",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\MinAPI_23504\\Program.cs",
               "RelativeDocumentMoniker": "MinAPI_23504\\Program.cs",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\MinAPI_23504\\Program.cs",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\MinAPI_23504\\Program.cs",
               "RelativeToolTip": "MinAPI_23504\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T20:38:00.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\appsettings.json",
-              "RelativeDocumentMoniker": "Despesas_23504\\appsettings.json",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\appsettings.json",
-              "RelativeToolTip": "Despesas_23504\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-01T20:12:18.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Program.cs",
-              "RelativeDocumentMoniker": "Despesas_23504\\Program.cs",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Program.cs",
-              "RelativeToolTip": "Despesas_23504\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:46:12.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T20:38:00.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\appsettings.json",
+              "RelativeDocumentMoniker": "Despesas_23504\\appsettings.json",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\appsettings.json",
+              "RelativeToolTip": "Despesas_23504\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T20:12:18.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\Program.cs",
+              "RelativeDocumentMoniker": "Despesas_23504\\Program.cs",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\Program.cs",
+              "RelativeToolTip": "Despesas_23504\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:46:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Despesas_23504\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\kyous\\OneDrive\\Documentos\\AnaPaula\\AnaPaula_\\Git_clones\\ControleDespesas\\Despesas_23504\\Data\\AppDbContext.cs",
+              "ToolTip": "Z:\\DS25\\ANDREIA\\API\\API\\ControleDespesas\\Despesas_23504\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Despesas_23504\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:45:38.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T19:45:38.728Z"
             }
           ]
         }
